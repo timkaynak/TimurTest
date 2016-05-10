@@ -1,0 +1,10 @@
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\bin\Release\trykaç.exe
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\bin\Release\trykaç.pdb
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Release\trykaç.Form1.resources
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Release\trykaç.Properties.Resources.resources
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Release\trykaç.csproj.GenerateResource.Cache
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Release\trykaç.exe
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Release\trykaç.pdb
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Release\trykaç.csprojResolveAssemblyReference.cache
+C:\Users\timkaynak\Documents\GitHub\TimurTest\trykac\obj\x86\Release\trykaç.exe
+C:\Users\timkaynak\Documents\GitHub\TimurTest\trykac\obj\x86\Release\trykaç.pdb

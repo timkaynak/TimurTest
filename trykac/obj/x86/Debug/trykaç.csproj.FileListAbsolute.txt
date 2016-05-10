@@ -1,0 +1,17 @@
+c:\documents and settings\tkaynak\belgelerim\visual studio 2010\Projects\trykaç\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\tkaynak\belgelerim\visual studio 2010\Projects\trykaç\obj\x86\Debug\trykaç.Form1.resources
+c:\documents and settings\tkaynak\belgelerim\visual studio 2010\Projects\trykaç\obj\x86\Debug\trykaç.Properties.Resources.resources
+c:\documents and settings\tkaynak\belgelerim\visual studio 2010\Projects\trykaç\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\tkaynak\belgelerim\visual studio 2010\Projects\trykaç\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\tkaynak\belgelerim\visual studio 2010\Projects\trykaç\bin\Debug\trykaç.exe
+c:\documents and settings\tkaynak\belgelerim\visual studio 2010\Projects\trykaç\bin\Debug\trykaç.pdb
+c:\documents and settings\tkaynak\belgelerim\visual studio 2010\Projects\trykaç\obj\x86\Debug\trykaç.exe
+c:\documents and settings\tkaynak\belgelerim\visual studio 2010\Projects\trykaç\obj\x86\Debug\trykaç.pdb
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Debug\trykaç.exe
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Debug\trykaç.pdb
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\bin\Debug\trykaç.exe
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\bin\Debug\trykaç.pdb
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Debug\trykaç.Form1.resources
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Debug\trykaç.Properties.Resources.resources
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Debug\trykaç.csproj.GenerateResource.Cache
+C:\Users\timkaynak\Documents\Visual Studio 2010\Projects\trykaç\obj\x86\Debug\trykaç.csprojResolveAssemblyReference.cache

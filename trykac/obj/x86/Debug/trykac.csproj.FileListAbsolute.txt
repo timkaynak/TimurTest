@@ -1,0 +1,7 @@
+C:\Users\timkaynak\Documents\GitHub\TimurTest\trykac\bin\Debug\trykac.exe
+C:\Users\timkaynak\Documents\GitHub\TimurTest\trykac\bin\Debug\trykac.pdb
+C:\Users\timkaynak\Documents\GitHub\TimurTest\trykac\obj\x86\Debug\trykac.Form1.resources
+C:\Users\timkaynak\Documents\GitHub\TimurTest\trykac\obj\x86\Debug\trykac.Properties.Resources.resources
+C:\Users\timkaynak\Documents\GitHub\TimurTest\trykac\obj\x86\Debug\trykac.csproj.GenerateResource.Cache
+C:\Users\timkaynak\Documents\GitHub\TimurTest\trykac\obj\x86\Debug\trykac.exe
+C:\Users\timkaynak\Documents\GitHub\TimurTest\trykac\obj\x86\Debug\trykac.pdb
